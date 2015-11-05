@@ -1,0 +1,27 @@
+/*------------------------------------*\
+    #GENERAL SETTINGS
+\*------------------------------------*/
+
+/**
+ * The site's general settings. Builds on Bedrock's general settings.
+ **/
+
+// Import the Bedrock settings
+
+@import "dewnr-bedrock/sass/_settings.general.scss";
+
+
+
+
+
+/* = File locations and prefixes = */
+
+$sagovau-file-prefix:   ""; // A two or three letter prefix to differentiate between site files.
+
+
+
+
+
+/* = Colours = */
+
+$sagovau-color-brand:   #002855;    // The site's main brand colour
