@@ -164,15 +164,7 @@ sassOptions = {
  *  ];
  **/
 
-jsList = [
-    {
-        source: [
-            paths.src.js + "ui-toggle.js",
-            paths.src.js + "sticky-navigation.js"
-        ],
-        filename: "main.js"
-    }
-];
+jsList = [];
 
 
 
